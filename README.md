@@ -1,6 +1,6 @@
 # cdi-04
-Nombre: Azorin Agustin
-Curso: 4°1 avionica
+Nombre: Azorin Agustin;
+Curso: 4°1 avionica;
 Colaboradores: Melina Alfonso y Victoria Baza
 
 
